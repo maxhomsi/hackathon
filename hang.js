@@ -35,11 +35,8 @@ let checkForWin = function (board) { //vai chegar se o usuario ganhou
 };
 
 checkGuess("l");
-
 checkGuess("e");
-
 checkGuess("h");
-
 checkGuess("t");
 checkGuess("x");
 checkGuess("o");
